@@ -37,6 +37,7 @@
   font-weight: 100 900;
   font-style: normal;
 }
+
 @font-face {
   font-family: 'Overpass Mono';
   src: url('../../idea-garden/tree/hugo/assets/fonts/Overpass_Mono/OverpassMono-VariableFont_wght.ttf') format('truetype');
@@ -46,7 +47,7 @@
 
 :root {
   --font-body: "Maven Pro";
-  --font-header: "Montserrat Alternates";
+  --font-header: "Montserrat";
   --font-mono: "Overpass Mono"
 }
 
