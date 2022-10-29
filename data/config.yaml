@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Klaus Gogg
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -15,12 +15,13 @@ GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  A commonplace book for networked thought, and idea mapping. Made with Quartz.
 page_title:
-  "🪴 Quartz 3.3"
+  "🌐🫧 Idea Graph"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: Homepage
+    link: https://klausgogg.de
+  - link_name: Coaching-Calls
+    link: https://klausgogg.de
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/coach-kg
