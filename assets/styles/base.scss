@@ -5,26 +5,21 @@
 
 @font-face {
   font-family: "Maven Pro";
-  src: url("../../idea-garden/assets/fonts/Maven_Pro/static/MavenPro-Regular.ttf") format('truetype');
-  font-weight: normal;
+  src: url("../../idea-garden/assets/fonts/Maven_Pro/MavenPro-VariableFont_wght.ttf") format('truetype');
+  font-weight: 400 900;
   font-style: normal;
 }
-@font-face {
-  font-family: "Maven Pro";
-  src: url("../../idea-garden/assets/fonts/Maven_Pro/static/MavenPro-Bold.ttf") format('truetype');
-  font-weight: bold;
-  font-style: normal;
 }
 @font-face {
-  font-family: "Montserrat Alternates";
-  src: url("../../idea-garden/assets/fonts/Montserrat_Alternates/MontserratAlternates-Bold.ttf") format('truetype');
-  font-weight: bold;
+  font-family: "Montserrat";
+  src: url("../../idea-garden/assets/fonts/Montserrat/Montserrat-VariableFont_wght.ttf") format('truetype');
+  font-weight: 100 900;
   font-style: normal;
 }
 @font-face {
   font-family: 'Overpass Mono';
-  src: url("../../idea-garden/assets/fonts/Overpass_Mono/static/OverpassMono-Regular.ttf") format('truetype');
-  font-weight: normal;
+  src: url("../../idea-garden/assets/fonts/Overpass_Mono/OverpassMono-VariableFont_wght.ttf") format('truetype');
+  font-weight: 300 700;
   font-style: normal;
 }
 
