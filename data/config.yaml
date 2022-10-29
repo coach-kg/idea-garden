@@ -9,15 +9,15 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
-enableGitHubEdit: true
+enableRecentNotes: true
+enableGitHubEdit: false
 GitHubLink: https://github.com/coach-kg/idea-garden/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
   A commonplace book for networked thought, and idea mapping. Made with Quartz.
 page_title:
-  "🫧 Idea Graph 🌐"
+  "Ideen Graph"
 links:
   - link_name: Homepage
     link: https://klausgogg.de
