@@ -12,6 +12,8 @@ Metapher:
 Unsere Ideen und Glaubenssätze sind wie wir die Welt verstehen und auch konstruieren. Wie mit einem Fischernetz das im Ozean treibt, 
 Egal wie engmaschig es ist, es geht immer etwas durch, was wir nicht mit dem Netz begriffen haben, sei es die Feuchte des Ozeans oder anderes, was wir bloß implizit umschreiben müssen. Wir können den Ozean mit einem Fischernetz nicht einfangen, und schon gar nicht an Land holen um es anderen zu zeigen... Unsere Erfahrung bleibt subjektiv.
 
+Metaphern sind nicht das auf was sie sich beziehen. Sie heben nur gewisse Aspekte hervor, in anderen Aspekten sind sie schlicht falsch.
+
 
 ## Get Started
 > 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
