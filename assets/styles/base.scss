@@ -9,15 +9,23 @@
   font-weight: 400 900;
   font-style: normal;
 }
+
 @font-face {
-  font-family: "Montserrat";
+  font-family: 'Maven Pro';
+  src: url('../../idea-garden/assets/fonts/Maven_Pro/MavenPro-VariableFont_wght.ttf') format('truetype');
+  font-weight: 400 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
   src: url('../../idea-garden/tree/hugo/assets/fonts/Montserrat/Montserrat-VariableFont_wght.ttf') format('truetype');
   font-weight: 100 900;
   font-style: normal;
 }
 @font-face {
   font-family: 'Overpass Mono';
-  src: url("../../idea-garden/tree/hugo/assets/fonts/Overpass_Mono/OverpassMono-VariableFont_wght.ttf") format('truetype');
+  src: url('../../idea-garden/tree/hugo/assets/fonts/Overpass_Mono/OverpassMono-VariableFont_wght.ttf') format('truetype');
   font-weight: 300 700;
   font-style: normal;
 }
