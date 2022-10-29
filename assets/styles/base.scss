@@ -1,9 +1,37 @@
 // Replace this with your own font imports!
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Maven+Pro:wght@400;600&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Maven+Pro:wght@400;600&display=swap');
+
+// Using Local Fonts
+
+@font-face {
+  font-family: "Maven Pro";
+  src: url("../../idea-garden/assets/fonts/Maven_Pro/static/MavenPro-Regular.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Maven Pro";
+  src: url("../../idea-garden/assets/fonts/Maven_Pro/static/MavenPro-Bold.ttf") format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat Alternates";
+  src: url("../../idea-garden/assets/fonts/Montserrat_Alternates/MontserratAlternates-Bold.ttf") format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Overpass Mono';
+  src: url("../../idea-garden/assets/fonts/Overpass_Mono/static/OverpassMono-Regular.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 :root {
   --font-body: "Maven Pro";
-  --font-header: "Inter";
-  --font-mono: "Fira Code"
+  --font-header: "Montserrat Alternates";
+  --font-mono: "Overpass Mono"
 }
 
 // typography
