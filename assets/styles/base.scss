@@ -1,8 +1,8 @@
 // Replace this with your own font imports!
-// @import url('https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@400;700&family=Inter:wght@400;600;700&family=Maven+Pro:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@400;700&family=Montserrat:wght@400;600;700&family=Maven+Pro:wght@400;600&display=swap');
 
 // Using Local Fonts
-
+/*
 @font-face {
   font-family: 'Maven Pro';
   src: url('https://klausgogg.de/wp-content/uploads/fonts/b8d22c5e9df4d658da52c06a6d1d0886/maven-pro-latin-v32-normal-400.woff2') format('woff2');
@@ -11,7 +11,7 @@
 }
 
 @font-face {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat Alternates';
   src: url('https://klausgogg.de/wp-content/uploads/fonts/b8d22c5e9df4d658da52c06a6d1d0886/montserrat-alternates-latin-v17-normal-700.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
@@ -23,6 +23,7 @@
   font-weight: 300 700;
   font-style: normal;
 }
+*/
 
 :root {
   --font-body: "Maven Pro";
