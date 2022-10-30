@@ -17,11 +17,9 @@ Metaphern sind nicht das auf was sie sich beziehen. Sie heben nur gewisse Aspekt
 
 ## Start
 
+Finde dich mit dem Graph, der [Listenansicht](/tags/), oder Suche zurecht.
+
+Hier sind aktuelle Themengebiete:
 - 📚 [Kreativität](notes/creativity.md)
 - 🌊 [Flow](notes/flow.md)
 - ...
-
-Graph, neue Knoten, oder Suche.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [tags](/tags/).
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
