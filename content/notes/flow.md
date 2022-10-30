@@ -54,4 +54,4 @@ The answers as of now to the question "What leads to group flow?"
 - Equal participation
 
 
-Given that triggers work by driving our attention more into the present moment, one thing we have to prepare for, and be guarded against in a timeslot we want to experience deep flow in are distractions. [test link to a tag](tags/distraction)
+Given that triggers work by driving our attention more into the present moment, one thing we have to prepare for, and be guarded against in a timeslot we want to experience deep flow in are [distractions.](notes/distraction.md)
