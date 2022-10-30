@@ -15,8 +15,12 @@ tags:
 
 What to look for in software: 
 - ability to connect and link notes, 
+- structure,
 - good search feature, 
 - text editing, tables, ... 
 - (mobile app)
 
 This also helps feed your pattern recognition, curiosity, and thus feeds [creativity](notes/creativity.md), [Flow](notes/flow.md), and skill building. It's a positive feedback loop.
+
+Keep everthing in one place.
+Discover new links.
