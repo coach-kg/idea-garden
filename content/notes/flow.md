@@ -9,11 +9,12 @@ tags:
 
 Flow is a state ...
 
-## Flow Triggers
-
 > [!quote] Quote
 >
 > “Flow follows focus. It only shows up when we’re in the right here and the right now. That’s what these triggers do: they drive our attention to the present moment.” - Steve Kotler
+
+
+## Flow Triggers
 
 ### Individual Triggers
 
@@ -31,7 +32,8 @@ Here's a list of attritubes you can experiment with to lead yourself into deeper
 - Deep embodiment
 - Creativity/pattern recognition
 
-> [!question] Question 
+
+> [!question] Reflection Question 
 >
 > Pick an activity you get into the zone when doing, or activities you can observe others being absorbed in. Which flow triggers can you identify? Which are strongest for you? What separates someone who's experiencing flow in an activity from someone who deosn't?
 Example Activities: Video Games, Snowboarding, playing an instrument, ...
