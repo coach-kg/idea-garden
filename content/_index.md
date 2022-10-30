@@ -15,16 +15,13 @@ Egal wie engmaschig es ist, es geht immer etwas durch, was wir nicht mit dem Net
 Metaphern sind nicht das auf was sie sich beziehen. Sie heben nur gewisse Aspekte hervor, in anderen Aspekten sind sie schlicht falsch.
 
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+## Start
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+- 📚 [Kreativität](notes/creativity.md)
+- 🌊 [Flow](notes/flow.md)
+- ...
 
+Graph, neue Knoten, oder Suche.
+
+If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [tags](/tags/).
 If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
-Massive thanks to Jacky Zhao and the many contributurs for Quartz, the software this page runs on. <3
