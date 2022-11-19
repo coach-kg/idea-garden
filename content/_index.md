@@ -18,6 +18,7 @@ Navigiere das Netz mit dem Graphen, der [Listenansicht](/tags/), oder der Suchle
 Hier sind aktuelle Themengebiete:
 - 📚 [Kreativität](notes/creativity.md)
 - 🌊 [Flow](notes/flow.md)
+- 🌀 [Spiral Dynamics](notes/spiral-dynamics.md)
 - ...
 
 
