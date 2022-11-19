@@ -5,7 +5,7 @@ tags:
 - Flow
 ---
 
-Distractions are defined relative to where we 
+Distractions are defined relative to where we would need to place our attention and focus in order to fulfill our needs and get a certain result we want.
 The worst distractions are those we think are necessary, we can't live without and aren't leading us to where we're set on going. Even worse when they are actually mixed up with what we actually need for going or being where we want to be.
 Distractions are attention/time/energy sinks.
 
