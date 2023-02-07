@@ -2,7 +2,7 @@
 title: "Commonplace Book"
 tags:
 - Learning
-- Infrastructure for Success
+- Infrastructure-for-Success
 ---
 
 ## Software Examples

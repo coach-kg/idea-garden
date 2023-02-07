@@ -2,8 +2,8 @@
 title: "Stage Beige"
 tags:
 - Psychology
-- Developmental Psychology
-- Systems Thinking
+- Developmental-Psychology
+- Systems-Thinking
 ---
 
 ## Core Values

@@ -2,8 +2,8 @@
 title: "Spiral Dynamics"
 tags:
 - Psychology
-- Developmental Psychology
-- Systems Thinking
+- Developmental-Psychology
+- Systems-Thinking
 ---
 
 Spiral Dynamics is a map of the developmental stages, value systems and perspectives of individuals, groups and societies. 
