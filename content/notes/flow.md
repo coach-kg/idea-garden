@@ -11,7 +11,7 @@ Flow is a state ...
 
 > [!quote] Quote
 >
-> “Flow follows focus. It only shows up when we’re in the right here and the right now. That’s what these triggers do: they drive our attention to the present moment.” - Steve Kotler
+> “Flow follows focus. It only shows up when we’re in the right here and the right now. That’s what these triggers do: they drive our attention to the present moment.” - Steven Kotler
 
 
 ## Flow Triggers

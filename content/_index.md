@@ -16,6 +16,7 @@ Ich lade dich ein auf eine Entdeckungsreise durch viele Konzepte, Unterscheidung
 Navigiere das Netz mit dem Graphen, der [Listenansicht](/tags/), oder der Suchleiste (Strg+K).
 
 Hier sind aktuelle Themengebiete:
+- 🧗 [Coaching](notes/coaching.md)
 - 📚 [Kreativität](notes/creativity.md)
 - 🌊 [Flow](notes/flow.md)
 - 🌀 [Spiral Dynamics](notes/spiral-dynamics.md)
