@@ -1,5 +1,5 @@
 ---
-title: Ideen-Netz & -Lexikon
+title: Start
 enableToc: false
 ---
 
