@@ -11,7 +11,7 @@ Coaching models help the coach to structure coaching conversations, and also ser
 - expertise of the coach - especially when they themselves have developed a fairly good coaching model - although it's no guarantee for great coaching
 
 Here are some examples of common coaching models:
-* GROW
+* [GROW](notes/grow.md)
 * ORACLE
 * Leadership Choices
 * [Inner Game Model](notes/inner-game-model.md)
