@@ -14,3 +14,13 @@ Make this distinction:
 - Outer Game
 
 Improve or fix your Inner Game before you expect your Outer Game to go well. Success starts on the inside.
+
+> [!question] As a simple question:
+> Are my beliefs or inner voice working for me or against me?
+
+Working against you -> "bad" inner game
+It works for you -> "good" inner game
+... and of course there's degrees and shades of grey.
+
+
+
