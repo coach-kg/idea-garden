@@ -9,7 +9,8 @@ tags:
 
 | ... | ... |
 | --- | --- |
-| Ectraversion   | Introversion   |
+| Extraversion   | Introversion   |
 | Intuition   | Sensing   |
 | Thinking   | Feeling   |
 | Perceiving    |  Judging   |
+
