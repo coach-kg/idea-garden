@@ -6,7 +6,7 @@ enableToc: false
 ## Was findest du hier?
 
 Hier findest du einen Katalog von Konzepten, welche in der Persönlichkeitsentwicklung, Psychologie und Bildung eine wichtige Rolle spielen.
-Das Ideen-Netz soll dir Überblick und Startpunkte in dieses weite Feld verschaffen. Es soll kein umfassendes Wiki werden, bloß ein Primer, eine Art Vorstellungsrunde verscheidenster Ideen. Am besten erkundest du es von deiner Neugier getrieben, und Stück für Stück.
+Das Ideen-Netz soll dir Überblick und Startpunkte in dieses weite Feld verschaffen. Es soll kein umfassendes Wiki werden, bloß ein Primer, eine Art Vorstellungsrunde verschiedenster Ideen. Am besten erkundest du es von deiner Neugier getrieben, und Stück für Stück.
 
 Ich lade dich ein auf eine Entdeckungsreise durch viele Konzepte, Unterscheidungen, und Dinge die Dinge sind, weil sie einen Namen haben. 
 
