@@ -19,3 +19,6 @@ Here are some examples of common coaching models:
 * ...
 
 The best models are built upon profound insights - wether they are stated explicitly or not within the model. Yet they also have to be simple enough to be useful and communicable and not overwhelm with unstructured complexity.
+
+
+Models also serve as a structuring for the timing and use of specific [interventions and coaching methods](notes/coaching-methods-interventions.md).
