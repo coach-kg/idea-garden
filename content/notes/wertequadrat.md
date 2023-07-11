@@ -6,11 +6,9 @@ tags:
 - Coaching Method
 - first-draft
 ---
+> [!info]
+> This article is part of a series on Coaching Methods.
+> » [Overview of Coaching Methods](notes/coaching-methods-interventions.md)
 
-> [!info] Theme
->
-	» Coaching Methods
-
-
-Similar to [Polarity Map](notes/polarity-map.md) in its graphical depiction and focus on values – a slightly different use.
+Similar method to [Polarity Map](notes/polarity-map.md) in its graphical depiction and focus on values – a slightly different use.
 
